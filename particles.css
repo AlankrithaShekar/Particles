@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: 'Muli', sans-serif;
+    margin:auto;
+}
